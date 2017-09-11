@@ -1,2 +1,2 @@
 # ReSwiftAudioPlayer
-Test implementation of audio player with ReSwift
+Test implementation of yet another audio player with ReSwift
